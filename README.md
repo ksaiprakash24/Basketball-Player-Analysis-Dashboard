@@ -125,4 +125,8 @@ The dashboard aims to:
 
 ### 📊 Dashboard Preview
 
-*([Dashboard Preview](https://github.com/ksaiprakash24/Basketball-Player-Analysis-Dashboard/blob/main/Basketball%20Player%20Analysis%20-%20Page%201.png))*
+*([Dashboard Page 1](https://github.com/ksaiprakash24/Basketball-Player-Analysis-Dashboard/blob/main/Basketball%20Player%20Analysis%20Dashboard%20-%20%20Page%201.png))* 
+
+*([Dashboard Page 2](https://github.com/ksaiprakash24/Basketball-Player-Analysis-Dashboard/blob/main/Basketball%20Player%20Analysis%20Dashboard%20-%20%20Page%202.png))* 
+
+*([Dashboard Page 3](https://github.com/ksaiprakash24/Basketball-Player-Analysis-Dashboard/blob/main/Basketball%20Player%20Analysis%20Dashboard%20-%20%20Page%203.png))* 
